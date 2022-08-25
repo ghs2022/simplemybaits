@@ -69,11 +69,7 @@ INSERT INTO `emp` VALUES (7934, 'MILLER', 'CLERK', 7782, '1982-01-23', 1300.00, 
 
 ### 2.用到的外部依赖
 
-![image-20220825152430194](readme.assets/image-20220825152430194.png)
-
-
-
-### 
+![image-20220826002906238](readme.assets/image-20220826002906238.png)
 
 
 
