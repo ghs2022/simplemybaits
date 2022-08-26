@@ -16,9 +16,9 @@ import java.util.Properties;
  * 测试Dao
  */
 public class Demo {
-
     @Test
     public void testFindAll() throws  Exception{
+        System.out.println("a");
         EmpDao empDao = new EmpDao();
         List<Emp> all = empDao.findAll(Emp.class);
         for (Emp emp : all) {
